@@ -9,4 +9,4 @@
 ---
 
 ## Output image:-
-![output](output.png)
+<img width="565" height="78" alt="image" src="https://github.com/user-attachments/assets/a8673780-365b-42a3-a1da-f3648e0e9398" />
